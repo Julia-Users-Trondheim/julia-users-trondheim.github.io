@@ -8,4 +8,4 @@ Let's collect ideas together at [this collaborative Markdown document](https://m
 
 ## Upcoming Meeting
 
-We plan to do a first meeting in August or September 2023, probably at NTNU.
+Until now there is upcoming meeting planned, but as soon as we find enough people, I am happy to take care about arranging a date and check for a nice room at NTNU.
