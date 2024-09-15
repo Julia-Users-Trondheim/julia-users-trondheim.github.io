@@ -8,4 +8,4 @@ Let's collect ideas together at [this collaborative Markdown document](https://m
 
 ## Upcoming Meeting
 
-We plan to do a first meeting in August or September 2023, probably at NTNU.
+*20.09.2024* We will meet for the first time! The plan is to reserve a table in a nice restaurant or bar at 4 pm. Please help us and [fill ou this form](https://forms.gle/w3qxvuQPjV6zPxUc8).
