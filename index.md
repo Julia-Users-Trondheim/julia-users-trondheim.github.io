@@ -8,9 +8,11 @@ Let's collect ideas together at [this collaborative Markdown document](https://m
 
 *20.03.2025*, 16.00, [S5](https://link.mazemap.com/i3capk3D) Presentation and workshop “Introduction to Julia”!
 
-Join us if you are curious about what Julia is and how to use it.
-We do assume that you have a bit (but not much) programming experience, e.g. in Python, Matlab or maybe R.
-After a presentation, we will also do a workshop to get you started with your first [Pluto](https://plutojl.org) notebook.
+[Julia](https://julialang.org) is an open source programming language with scientific computing as one of its main targets. It allows for fast prototyping while also directly producing fast, high performance as well as reproducible code.
+
+In this workshop we give an introduction to the language, how to install Julia, get started and work with [Pluto](https://plutojl.org) notebooks.
+A main focus is based on how to start programming in Julia if you come from Python, Matlab or R.
+Afterwards we will help you get started, work on concrete ideas and first small projects.
 
 ## Previous Meetings
 
