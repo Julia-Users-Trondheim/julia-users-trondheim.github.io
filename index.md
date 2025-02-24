@@ -9,7 +9,8 @@ Let's collect ideas together at [this collaborative Markdown document](https://m
 *20.03.2025*, 16.00, [S5](https://link.mazemap.com/i3capk3D) Presentation and workshop “Introduction to Julia”!
 
 Join us if you are curious about what Julia is and how to use it.
-We do assume that you have a bit (but not much) programming experience, but we also will do a workshop after the presentation to get you started with your first [Pluto](https://plutojl.org) notebook.
+We do assume that you have a bit (but not much) programming experience, e.g. in Python, Matlab or maybe R.
+After a presentation, we will also do a workshop to get you started with your first [Pluto](https://plutojl.org) notebook.
 
 ## Previous Meetings
 
